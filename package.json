@@ -1,13 +1,23 @@
 {
-  "name": "admin-lte3",
+  "name": "@sagordev/reactjs-adminlte3-template",
   "version": "0.1.0",
+  "description": "Admin LTE3 Admin Template for ReactJS",
+  "author": {
+    "name": "Asadujjaman Sagor",
+    "url": "https://sagor.dev",
+    "github": "https://github.com/sagordev"
+  },
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.20.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-hook-form": "^6.9.5",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.4"
   },
   "scripts": {
